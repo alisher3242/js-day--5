@@ -1,3 +1,22 @@
+//asosiy uyga vazifa
+
+let j = Math.random()*100;
+console.log(j);
+
+if (1<j && 17>=j) {
+    console.log("Maktab yoshi");
+} else if(18<=j && j<=24){
+    console.log("Universitet yoshi");
+} else if(25<=j && j<=40){
+    console.log("Ishlash yoshi");
+} else if(j>=41) {
+    console.log("Nuroniylar yoshi");
+};
+//asosiy uyga vazifa tugadi
+
+
+
+
 //assignment  operators
 
 let a = 7;
